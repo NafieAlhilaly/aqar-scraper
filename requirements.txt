@@ -1,0 +1,4 @@
+bs4
+black
+flake8
+pre-commit
